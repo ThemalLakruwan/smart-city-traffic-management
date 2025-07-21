@@ -224,3 +224,4 @@ const TrafficStats = () => {
 };
 
 export default TrafficStats;
+
